@@ -16,6 +16,7 @@ All solutions are written with readability and efficiency in mind.
 
 ## Folder Structure
 problem-solving/
+
 ├── Baekjoon/
 
 │ ├── Silver/
