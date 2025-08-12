@@ -17,20 +17,31 @@ All solutions are written with readability and efficiency in mind.
 ## Folder Structure
 problem-solving/
 ├── Baekjoon/
-│   ├── Silver/
-│   │   ├── 1260_DFS_BFS.py
-│   │   └── 11866_요세푸스문제0.py
-│   ├── Gold/
-│   │   └── 1753_최단경로.py
-│   └── README.md
+
+│ ├── Silver/
+
+│ │ ├── 1260_DFS_BFS.py
+
+│ │ └── 11866_요세푸스문제0.py
+
+│ ├── Gold/
+
+│ │ └── 1753_최단경로.py
+
 ├── Programmers/
-│   ├── Level1/
-│   │   └── 12906_같은숫자는싫어.py
-│   ├── Level2/
-│   │   └── 42587_프린터.py
-│   └── README.md
-├── templates/              # 문제 시작할 때 복붙할 템플릿
-│   └── main.py
+
+│ ├── Level1/
+
+│ │ └── 12906_같은숫자는싫어.py
+
+│ ├── Level2/
+
+│ │ └── 42587_프린터.py
+
+├── templates/
+
+│ └── main.py
+
 └── README.md
 
 
