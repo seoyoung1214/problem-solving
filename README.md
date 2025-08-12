@@ -15,36 +15,35 @@ All solutions are written with readability and efficiency in mind.
 - Python 3
 
 ## Folder Structure
-problem-solving/
+`problem-solving/`
 
-├── Baekjoon/
+`├── Baekjoon/`
 
-│ ├── Silver/
+`│ ├── Silver/`
 
-│ │ ├── 1260_DFS_BFS.py
+`│ │ ├── 1260_DFS_BFS.py`
 
-│ │ └── 11866_요세푸스문제0.py
+`│ │ └── 11866_요세푸스문제0.py`
 
-│ ├── Gold/
+`│ ├── Gold/`
 
-│ │ └── 1753_최단경로.py
+`│ │ └── 1753_최단경로.py`
 
-├── Programmers/
+`├── Programmers/`
 
-│ ├── Level1/
+`│ ├── Level1/`
 
-│ │ └── 12906_같은숫자는싫어.py
+`│ │ └── 12906_같은숫자는싫어.py`
 
-│ ├── Level2/
+`│ ├── Level2/`
 
-│ │ └── 42587_프린터.py
+`│ │ └── 42587_프린터.py`
 
-├── templates/
+`├── templates/ # 문제 시작할 때 복붙할 템플릿`
 
-│ └── main.py
+`│ └── main.py`
 
-└── README.md
-
+`└── README.md`
 
 
 ## My Solving Process
